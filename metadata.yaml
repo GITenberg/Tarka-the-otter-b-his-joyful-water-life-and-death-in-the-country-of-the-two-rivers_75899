@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8884'
     url: http://www.gutenberg.org/2009/agents/8884
     wikipedia: https://en.wikipedia.org/wiki/John_Fortescue_(historian)
+covers:
+- cover_type: archival
+  image_path: 75899-h/images/cover.jpg
 creator:
   author:
     agent_name: Williamson, Henry
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54455
     wikipedia: https://en.wikipedia.org/wiki/Henry_Williamson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75899#Tarka-the-otter-b-his-joyful-water-life-and-death-in-the-country-of-the-two-rivers
 gutenberg_issued: '2025-04-18'
 gutenberg_type: Text
 identifiers:
